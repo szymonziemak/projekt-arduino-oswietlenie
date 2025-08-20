@@ -1,4 +1,4 @@
-# projekt-arduino-oświetlenie
+# projekt-arduino-oswietlenie
 Sterowanie oświetleniem za pomocą komend głosowych z wykorzystaniem Google Assistant
 
 ​Sprzęt: Płytka Wemos (ESP32), przekaźnik 1-kanałowy, oświetlenie LED.
