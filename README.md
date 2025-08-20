@@ -1,2 +1,2 @@
 # projekt-arduino-oswietlenie
-Sterowanie oświetleniem za komend głosowych z wykorzystaniem Google Assistant
+Sterowanie oświetleniem za pomocą komend głosowych z wykorzystaniem Google Assistant
